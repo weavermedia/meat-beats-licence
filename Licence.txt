@@ -1,0 +1,57 @@
+Meat Beats Software Licence Agreement
+
+Licence agreements are usually written to be skimmed past. I’ve kept this one short and written it in plain English, because I’d genuinely like you to read it. It’s still a legally binding agreement between you and Meat Beats – here’s what you’re agreeing to.
+
+1 - The words used
+
+“Software” means the Meat Beats plugin itself.
+
+“Content” means everything bundled with it – presets, samples, impulse responses, wavetables, other audio files, graphics and all other assets.
+
+“Output” means the audio you create with the Software or Content: your tracks, your scores, your sounds.
+
+2 - Your licence
+
+When you buy a Meat Beats product, you’re buying a licence to use it rather than the software itself – ownership and all intellectual property rights stay with Meat Beats. (Every plugin company works this way; I'm just saying it out loud.)
+
+Your licence is non-exclusive and non-transferable, and it lets you install and use the Software and Content on any computers you own or control. Studio machine, laptop, the old Mac in the corner – all fine, as long as they’re yours.
+
+3 - What you make is yours
+
+Everything you create with the Software and Content is 100% yours, royalty-free, forever.
+
+Release it, sell it, use it in music, film, games, broadcast, adverts – anything. You’ll never owe Meat Beats a penny beyond what you paid for the licence, and you don’t need to credit Meat Beats (but feel free to send whatever you make).
+
+4 - The few things you can’t do
+
+You may not:
+
+- Resell, redistribute, rent, lease or share the Software or Content
+- Make the Software or Content available on file-sharing platforms
+- Use the Content to create competing sound products – for example, repackaging our presets or samples into a library of your own
+- Reverse engineer, decompile, disassemble or modify the Software
+- Remove or alter any proprietary notices
+
+In short: make anything you like with the tools, but don’t redistribute the tools themselves, or the Content in any form that competes with the original product.
+
+5 - No warranty
+
+I work hard to make the Software great, but it’s provided “as is”, without warranty of any kind, express or implied. Use it at your own risk.
+
+6 - Limitation of liability
+
+To the fullest extent permitted by law, Meat Beats is not liable for any direct, indirect, incidental or consequential damages arising from your use of – or inability to use – the Software or Content.
+
+Please keep backups of your work. (You're doing that anyway, right?)
+
+7 - Termination
+
+This licence lasts until it’s terminated. If you breach its terms, it terminates automatically, and you must stop using the Software and delete all copies in your possession. Stick to the rules above – they’re not demanding – and this will never come up.
+
+8 - Governing law
+
+This Agreement is governed by the laws of England and Wales.
+
+Thanks for supporting Meat Beats. Now go make something great!
+
+© Meat Beats
