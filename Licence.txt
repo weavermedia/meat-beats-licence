@@ -4,13 +4,13 @@ Licence agreements are usually written to be skimmed past. I've kept this one sh
 
 1 - The words used
 
-“Product” means the Meat Beats digital product you obtain under this Agreement.
+"Product" means the Meat Beats digital product you obtain under this Agreement.
 
-“Software” means any executable software included in the Product, such as plugins or standalone applications.
+"Software" means any executable software included in the Product, such as plugins or standalone applications.
 
-“Content” means all non-software assets included in the Product, including presets, samples, impulse responses, wavetables, MIDI files, graphics and other assets.
+"Content" means all non-software assets included in the Product, including presets, samples, impulse responses, wavetables, MIDI files, graphics and other assets.
 
-“Output” means the audio, music or other creative works you create using the Product.
+"Output" means the audio, music or other creative works you create using the Product.
 
 2 - Your licence
 
@@ -38,7 +38,7 @@ In short: make anything you like with the tools, but don't redistribute the Prod
 
 5 - No warranty
 
-I work hard to make the Product great, but it's provided “as is”, without warranty of any kind, express or implied. Use it at your own risk.
+I work hard to make the Product great, but it's provided "as is", without warranty of any kind, express or implied. Use it at your own risk.
 
 6 - Limitation of liability
 
